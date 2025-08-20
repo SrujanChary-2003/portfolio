@@ -6,7 +6,7 @@ export const myProjects = [
       "Horizon is a full-stack online banking and finance dashboard built with Next.js, Appwrite, and TailwindCSS. It enables account management, money transfers, and transaction analytics.",
     subDescription: [
       "User authentication and account management powered by Appwrite.",
-      "Plaid API to securely link user bank accounts and fetch financial data.",
+      "Plaid API to  link user bank accounts and fetch financial data.",
       "Dwolla API integration for safe money transfer simulations.",
       "Real-time charts (Chart.js) for spending patterns, transactions, and account activity.",
       "Responsive design using Next.js + TailwindCSS for a smooth user experience.",

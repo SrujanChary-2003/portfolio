@@ -6,17 +6,17 @@ export function FrameWork() {
     "cplusplus",
     "css3",
     "git",
-    "github",
+    "appwrite",
     "html5",
     "javascript",
-    "microsoft",
     "react",
-    "sqlite",
+    "mongodb",
     "tailwindcss",
     "vitejs",
+    "nodejs",
   ];
   return (
-    <div className="relative flex h-[15rem] w-full flex-col items-center justify-center">
+    <div className="relative flex h-[12rem] w-full flex-col items-center justify-center">
       <OrbitingCircles iconSize={40}>
         {skills.map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />

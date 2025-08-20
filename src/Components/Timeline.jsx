@@ -52,6 +52,9 @@ export const Timeline = ({ data }) => {
                   {content}
                 </p>
               ))}
+              <div className="w-[18vh] px-1 py-1 text-lg text-center rounded-md cursor-pointer bg-radial from-lavender to-royal hover-animation">
+                <a href="/internship.pdf">Certificate</a>
+              </div>
             </div>
           </div>
         ))}
